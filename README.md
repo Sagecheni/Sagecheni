@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](github-readme-stats-vert-five.vercel.app/api?username=Sagecheni&show_icons=true&theme=ambient_gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagecheni&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
