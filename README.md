@@ -1,13 +1,4 @@
-<div align="center">
 
-
- <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Sagecheni/Sagecheni/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Sagecheni/Sagecheni/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Sagecheni/Sagecheni/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
 
 #  🙋 Hello
 ![Sage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true&theme=ambient_gradient)
