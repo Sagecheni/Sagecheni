@@ -51,7 +51,7 @@
 
 
 
-</td></td>tr>
+</td></td>
 
 ### 📊 WakaTime
 
