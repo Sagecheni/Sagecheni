@@ -52,7 +52,7 @@
 
 
 
-<\td><\tr>
+</td></td>tr>
 
 ### 📊 WakaTime
 
