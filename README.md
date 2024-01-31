@@ -26,6 +26,19 @@
 </div>
 
 #  🙋 Hello
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<p>&emsp;&emsp;嗨，你好，我是SageChen。</p>
+<p>&emsp;&emsp;一名就读于BUPT的菜鸡</p>
+<p>&emsp;&emsp;对AI，数学和密码学都有兴趣，并且持续学习中</p>
+<p><strong>&emsp;&emsp;Talk is cheap;Show me the code.</strong></p>
+
+</td></tr>
+
 ![Sage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagecheni&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
