@@ -40,8 +40,7 @@
 </td></tr>
 
 <tr><td>
-![Sage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true&theme=ambient_gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagecheni&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=Sagecheni&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
