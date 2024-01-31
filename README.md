@@ -2,7 +2,7 @@
 
 #  🙋 Hello
 ![Sage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true&theme=ambient_gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagecheni&layout=compact&hide=javascript,htm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagecheni&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </td></tr>
