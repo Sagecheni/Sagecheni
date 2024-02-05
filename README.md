@@ -64,7 +64,6 @@
 <tr><td>
 
 📊 WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sagecheni)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Sagecheni&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
