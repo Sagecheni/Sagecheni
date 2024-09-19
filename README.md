@@ -33,9 +33,8 @@
 ### 🤺 About Me
 
 <p>&emsp;&emsp;嗨，你好，我是SageChen。</p>
-<p>&emsp;&emsp;一名就读于BUPT的菜鸡</p>
+<p>&emsp;&emsp;就读于BUPT</p>
 <p>&emsp;&emsp;对AI，数学和密码学都有兴趣，并且持续学习中</p>
-<p><strong>&emsp;&emsp;Talk is cheap;Show me the code.</strong></p>
 
 </td></tr>
 
