@@ -16,6 +16,14 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagecheni/Sagecheni/main/assets/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagecheni/Sagecheni/main/assets/github-contribution-grid-snake.svg" height="225px" />
+    <img src="https://raw.githubusercontent.com/Sagecheni/Sagecheni/main/assets/github-contribution-grid-snake.svg"/>
+  </picture>
+    <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
   <div>
