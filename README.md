@@ -18,8 +18,8 @@
   <div>&nbsp;</div>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagecheni/Sagecheni/main/assets/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagecheni/Sagecheni/main/assets/github-contribution-grid-snake.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagecheni/Sagecheni/master/assets/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagecheni/Sagecheni/master/assets/github-contribution-grid-snake.svg" height="225px" />
     <img src="https://raw.githubusercontent.com/Sagecheni/Sagecheni/main/assets/github-contribution-grid-snake.svg"/>
   </picture>
     <!-- for beauty 留个空行好看点 -->
