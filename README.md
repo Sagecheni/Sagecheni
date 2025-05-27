@@ -36,20 +36,7 @@
   
 </div>
 
-<!-- GitHub 数据统计 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagecheni&show_icons=true" />
 
-</picture>
-<img height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagecheni&hide_title=false&hide=javascript,html,typescript,scss,css&hide_border=true&exclude_repo=Sagecheni,Sagecheni.github.io&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 
 
