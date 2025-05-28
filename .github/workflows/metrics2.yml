@@ -43,7 +43,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_rss: yes
           plugin_rss_limit: 3
-          plugin_rss_source: https://blog.sa1ge.ink/rss
+          plugin_rss_source: https://blog.sa1ge.ink/index.xml
           plugin_stars: yes
           plugin_stars_limit: 3
           filename: my-metrics2.svg
