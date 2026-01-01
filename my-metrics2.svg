@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.64681966855437" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="175.64681966855437" y="0" width="111.80490213840301" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="287.4517218069574" y="0" width="81.43310209671418" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="368.8848239036716" y="0" width="39.91295996509048" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="408.79778386876205" y="0" width="28.390265853929364" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="437.18804972269146" y="0" width="10.002211066240427" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="447.1902607889319" y="0" width="8.48486442365198" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.67512521258385" y="0" width="4.324874787416208" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.5719156609145" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="175.5719156609145" y="0" width="111.75722330618873" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="287.32913896710323" y="0" width="81.39837521857828" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="368.7275141856815" y="0" width="39.89593921479283" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="408.6234534004743" y="0" width="28.37815891857789" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="437.00161231905224" y="0" width="10.194111140968872" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="447.1957234600211" y="0" width="8.48124608116897" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.6769695411901" y="0" width="4.323030458809922" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -116,7 +116,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astral-sh/ty</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extremely fast Python type checker and language server, written in Rust.</div>
