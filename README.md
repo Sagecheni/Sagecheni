@@ -4,7 +4,7 @@
   <a href="https://github.com/Sagecheni/">
     Github
   </a> •
-  <a href="http://blog.sa1ge.fun/">
+  <a href="https://blog.sagec.fun/">
     Blog
   </a>
   •
