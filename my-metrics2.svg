@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.11016544126522" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="174.11016544126522" y="0" width="111.49231207426753" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="285.60247751553277" y="0" width="80.7684256769478" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="366.3709031924806" y="0" width="41.81200426758327" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="408.18290746006386" y="0" width="28.141892315936335" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="436.3247997760002" y="0" width="10.977527601705102" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="447.30232737770524" y="0" width="8.410634199562622" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.7129615772679" y="0" width="4.287038422732122" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.394715422334" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="173.394715422334" y="0" width="111.0341700893808" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="284.4288855117148" y="0" width="80.43653367320888" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="364.86541918492367" y="0" width="41.64019121365284" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="406.5056103985765" y="0" width="28.026252213365822" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.5318626119423" y="0" width="12.822641788827472" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="447.3545044007698" y="0" width="8.376073389273055" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.7305777900429" y="0" width="4.2694222099571295" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -222,7 +222,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StanleySun233/HREB-CRF</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official implementation of the paper HREB-CRF, accept by IJCNN2025.</div>
