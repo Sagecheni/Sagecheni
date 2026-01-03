@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.41404260813675" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="174.41404260813675" y="0" width="111.6869013323687" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="286.1009439405055" y="0" width="80.90939206053136" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="367.0103360010368" y="0" width="41.88497940585766" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="408.8953154068945" y="0" width="28.19100879621592" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="437.08632420311045" y="0" width="10.193841730014348" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="447.2801659331248" y="0" width="8.42531340962298" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.70547934274776" y="0" width="4.294520657252248" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.2234586729131" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="174.2234586729131" y="0" width="111.56485995972142" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="285.7883186326345" y="0" width="80.82098157416877" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="366.6093002068033" y="0" width="41.8392112780019" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="408.4485114848052" y="0" width="28.160204204372484" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="436.60871568917764" y="0" width="10.68534933140362" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="447.2940650205813" y="0" width="8.416106987014532" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.7101720075958" y="0" width="4.289827992404169" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -169,7 +169,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NanmiCoder/MediaCrawler</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫</div>
